@@ -47,7 +47,7 @@
 
 ## Output:
 
-![Screenshot 2024-12-04 103141](https://github.com/user-attachments/assets/e8894039-5515-4b8f-8aae-3b7e0822ae8d)
+
 
 ### Name: Vishnu Rathan B
 ### Register Number: 24001855
