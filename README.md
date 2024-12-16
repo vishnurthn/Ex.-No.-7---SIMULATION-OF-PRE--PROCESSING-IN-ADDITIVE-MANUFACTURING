@@ -47,14 +47,6 @@
 
 ## Output:
 
-![6 1 1](https://github.com/user-attachments/assets/92eee03e-f19d-4135-b962-f43d573e1ae2)
-![6 1 2](https://github.com/user-attachments/assets/e6d99f5e-6e58-4e73-8c41-58e8cb971c95)
-![6 1 3](https://github.com/user-attachments/assets/2504f784-db1e-4d30-9403-514e4fb58cf6)
-![6 1 4](https://github.com/user-attachments/assets/308147b0-69dc-4986-96d0-02a17a272351)
-![6 1 5](https://github.com/user-attachments/assets/2a06610c-eada-485d-9f55-edf032a89ebb)
-![6 1 6](https://github.com/user-attachments/assets/287a993e-69e7-4434-9dbb-9aeec40a92a0)
-
-
 ### Name: Vishnu Rathan B
 ### Register Number: 24001855
 
